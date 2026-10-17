@@ -4,6 +4,6 @@ Model Context Protocol server for Common Lisp.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/cl-ai-project/cl-mcp.git     |
-| commit  | a5308a8                                              |
+| commit  | fc68ea5                                              |
 | systems | cl-mcp                                               |
 |---------+------------------------------------------------------|
